@@ -1,0 +1,52 @@
+body {
+  background-color: #f8f988;
+}
+
+h1,
+h2,
+h3 {
+  color: #ff7b00;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+li {
+  list-style: none;
+}
+
+a:link,
+a:visited {
+  color: #ff7b00;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover,
+a:active {
+  color: #ff4400;
+  text-decoration: underline;
+}
+
+.content,
+.list {
+  font-size: 20px;
+  word-spacing: 1.5pt;
+  color: #434242;
+  line-height: 1.5;
+  font-family: sans-serif;
+}
+
+.formclass {
+  background-color: #f9db88;
+  width: 30%;
+  margin-left: 5px;
+  margin-top: 10px;
+  border-color: #ff7b00;
+  border-width: thick;
+  font-size: 20px;
+  word-spacing: 1.5pt;
+  color: #434242;
+  line-height: 1.5;
+}
